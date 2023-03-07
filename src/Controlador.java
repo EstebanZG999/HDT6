@@ -15,7 +15,6 @@ public class Controlador {
     boolean loop = true;
     String key;
     String valor2;
-    String valores2;
 
     public void programa(){
         preguntar();
@@ -148,5 +147,3 @@ public class Controlador {
     }
 
 }
-
-
